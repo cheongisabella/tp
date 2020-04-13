@@ -44,12 +44,26 @@ The following link contains my code contributions to the project.
 
 #### Contributions to the User Guide
 Shown below are my contributions to User Guide, which showcases my ability to write documentation to target users.
-+ Chore: [3.5.1. Adding a chore: `addchore`](https://ay1920s2-cs2113t-m16-2.github.io/tp/UserGuide.html#351-adding-a-chore-addchore-isabella), [3.5.2. List chore: `listchore`](https://ay1920s2-cs2113t-m16-2.github.io/tp/UserGuide.html#352-list-chore-listchore-isabella), [3.5.3. Delete a chore: `deletechore`](https://ay1920s2-cs2113t-m16-2.github.io/tp/UserGuide.html#353-delete-a-chore-deletechore-isabella), [3.5.5. Mark chore as done: `done`](https://ay1920s2-cs2113t-m16-2.github.io/tp/UserGuide.html#355-mark-chore-as-done-done-isabella)
++ Chore:
+    + [3.5.1. Adding a chore: `addchore`](https://ay1920s2-cs2113t-m16-2.github.io/tp/UserGuide.html#351-adding-a-chore-addchore-isabella)
+    + [3.5.2. List chore: `listchore`](https://ay1920s2-cs2113t-m16-2.github.io/tp/UserGuide.html#352-list-chore-listchore-isabella)
+    + [3.5.3. Delete a chore: `deletechore`](https://ay1920s2-cs2113t-m16-2.github.io/tp/UserGuide.html#353-delete-a-chore-deletechore-isabella)
+    + [3.5.5. Mark chore as done: `done`](https://ay1920s2-cs2113t-m16-2.github.io/tp/UserGuide.html#355-mark-chore-as-done-done-isabella)
 + [3.6 Expenditure](https://ay1920s2-cs2113t-m16-2.github.io/tp/UserGuide.html#36-expenditure)
 + [4. Command Summary](https://ay1920s2-cs2113t-m16-2.github.io/tp/UserGuide.html#4-command-summary)
 
 #### Contributions to the Developer Guide
 Shown below are my contributions to the Developer Guide, which showcase my ability to write technical documentation targeted at technical users.
-+ Chore-related Features: [4.3.1. Addition of chore](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#431-addition-of-chore), [4.3.2. List all chores](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#432-list-all-chores), [4.3.3. Delete a specific chore](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#433-delete-a-specific-chore), [4.3.5. Mark chore as done](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#435-mark-chore-as-done), [4.3.6. Notification for chores warning](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#436-notification-for-chores-warning)
++ Chore-related Features: 
+    + [4.3.1. Addition of chore](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#431-addition-of-chore)
+    + [4.3.2. List all chores](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#432-list-all-chores)
+    + [4.3.3. Delete a specific chore](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#433-delete-a-specific-chore)
+    + [4.3.5. Mark chore as done](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#435-mark-chore-as-done)
+    + [4.3.6. Notification for chores warning](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#436-notification-for-chores-warning)
 + [4.5. Expenditure](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#45-expenditure)
-+ Appendix F: Instructions for Manual Testing: [F.11. Add a chore](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#f11-add-a-chore), [F.12. List chore](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#f12-list-a-chore), [F.13. Delete a chore](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#f13-delete-a-chore), [F.15. Mark a chore as done](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#f15-mark-a-chore-as-done), [F.17. Display expenditure](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#f17-display-expenditure)
++ Appendix F: Instructions for Manual Testing: 
+    + [F.11. Add a chore](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#f11-add-a-chore)
+    + [F.12. List chore](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#f12-list-a-chore)
+    + [F.13. Delete a chore](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#f13-delete-a-chore)
+    + [F.15. Mark a chore as done](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#f15-mark-a-chore-as-done)
+    + [F.17. Display expenditure](https://ay1920s2-cs2113t-m16-2.github.io/tp/DeveloperGuide#f17-display-expenditure)
